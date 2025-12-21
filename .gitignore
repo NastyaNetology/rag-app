@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+
+# JetBrains
+.idea/
+
+# Local RAG index artifacts
+data/index/
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
