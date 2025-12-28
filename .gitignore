@@ -15,3 +15,6 @@ data/index/
 # OS
 .DS_Store
 Thumbs.db
+
+# Windows metadata
+*:Zone.Identifier
