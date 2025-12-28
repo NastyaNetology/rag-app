@@ -190,4 +190,3 @@ ANSWER (be concise, mention the wine name when possible):
         answer=answer,
         context=context,
     )
-
